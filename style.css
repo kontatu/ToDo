@@ -5,3 +5,8 @@ body {
 .lists {
   list-style: none;
 }
+
+.todo div{
+  display: flex;
+  justify-content: center;
+}
